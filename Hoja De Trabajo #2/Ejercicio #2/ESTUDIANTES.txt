@@ -1,0 +1,4 @@
+1	Cristian	96
+2	Antonini	80
+3	Josue	100
+4	Emanuel	70
